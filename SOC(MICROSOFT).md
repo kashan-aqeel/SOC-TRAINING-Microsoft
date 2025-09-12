@@ -14,7 +14,7 @@ What is a SOC?
   The priority for a SOC team is to keep operational services secure and running smoothly.
   After an attack, the team works to restore systems and prevent future incidents.
 
-** Beyond just reacting to attacks, SOC teams also stay ahead of hackers by studying new cyber threats and fixing weaknesses before they can be exploited. ** 
+<ins> Beyond just reacting to attacks, SOC teams also stay ahead of hackers by studying new cyber threats and fixing weaknesses before they can be exploited. </ins> 
 ## Functions of a SOC:
 > To help detect, respond, and recover from attacks,
 > SOC team members take on different responsibilities.
@@ -39,8 +39,15 @@ THey sort though the noice to identify actual issues, then prioritize the threat
 * LOG Management
 The SOC collects and examines log data from every system and device within the organizition to track normal behaviour and spot any abnormalities that could signal a threat, like malware or ransomware.
 * Incident response
-When an attack is detected, the SOC take quick action to minimize the damage and keep the organizitaon runing.
-Th
+When an attack is detected, the SOC takes quick action to minimize the damage and keep the organizitaon runing.
+This includes isolating affected systems, suspending compromised accounts, and running antivirus checks.
+* Recovery and remediation
+After an attack, the SOC restores the organization to normal operations.
+this might involve reconnecting systems, restoring lost data, or switching to backup systems to ensure everything runs smoothly.
+* Root cayse investigation
+To prevent future attacks, the SOC investigates what went wrong during an incident, identifying valnerabilities and weaknesses in security systems or precesses.
+
+
 
 
   
