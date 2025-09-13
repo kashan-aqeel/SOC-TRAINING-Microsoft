@@ -112,6 +112,9 @@ The SOC ensures that security tools, processes, and applications meet privacy re
 
 > Detection: Do you look for indicators of compromise (IoCs) in historical logs or run live threat-hunting queries?
 > * Live queries provide real-time insight, allowing you to catch active threats that may not be apparent in historical logs.
+> Lateral Movement: How do you determine if the attacker has moved beyond the affected account?
+> * Active investigation into unusual activities helps identify if the threat has spread, allowing you to act before further damage is done.
+ 
 
 
 
